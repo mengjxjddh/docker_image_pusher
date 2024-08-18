@@ -10,4 +10,3 @@ redis
 rabbitmq
 registry
 python
-dokken/centos-stream-9:sha-fee967f
